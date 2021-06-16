@@ -1,0 +1,39 @@
+.modal-modal {
+  padding: 18%;
+  width: 100%;
+  position: fixed;
+  height: 100%;
+  background: #000000d6;
+  top: 0;
+  z-index: 100;
+}
+.modal-modal .imoon {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: #fff;
+  font-size: 26px;
+  cursor: pointer;
+}
+.modal-modal img {
+  height: 100%;
+  margin: 0 auto;
+}
+.modal-modal .ant-carousel {
+  height: 100%;
+}
+.modal-modal .ant-carousel .slick-slider {
+  height: 100%;
+}
+.modal-modal .ant-carousel .slick-slider .slick-list {
+  height: 100%;
+}
+.modal-modal .ant-carousel .slick-slider .slick-list .slick-track {
+  height: 100%;
+}
+.modal-modal .ant-carousel .slick-slider .slick-list .slick-track .slick-slide > div {
+  height: 100%;
+}
+.modal-modal .ant-carousel .slick-slider .slick-list .slick-track .slick-slide > div > div {
+  height: 100%;
+}
